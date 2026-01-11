@@ -5,16 +5,6 @@ This project is a simple calculator that computes **simple interest** given:
 - Annual rate of interest
 - Time period (in years)
 
----
-
-## Formula
-
-\[
-\text{Simple Interest} = P \times T \times R
-\]
-
----
-
 ## Inputs
 
 - **P** — Principal amount  
